@@ -1,0 +1,6 @@
+C:\Users\youse\source\repos\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\youse\source\repos\DVLD Data Access Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\youse\source\repos\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.dll
+C:\Users\youse\source\repos\DVLD Data Access Layer\obj\Debug\DVLD Data Access Layer.pdb

@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youse\\source\\repos\\DVLD System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clslogtheexerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clsdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clsinternationallicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|c:\\users\\youse\\source\\repos\\dvld system\\main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\main\\clslogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:main\\clslogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\users\\editoradduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:users\\editoradduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\users\\editoradduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:users\\editoradduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCC9720-6CEF-40CE-A20D-508ED7D4229A}|..\\DVLD Business Layer\\DVLD Business Layer.csproj|c:\\users\\youse\\source\\repos\\dvld business layer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\users\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:users\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\licenses\\addnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:licenses\\addnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\tests\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:tests\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCC9720-6CEF-40CE-A20D-508ED7D4229A}|..\\DVLD Business Layer\\DVLD Business Layer.csproj|c:\\users\\youse\\source\\repos\\dvld business layer\\clspasswordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clsdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\licenses\\addnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:licenses\\addnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\tests\\taketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:tests\\taketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\applications\\addnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:applications\\addnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\applications\\addnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:applications\\addnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\tests\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:tests\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF14EFE-D727-4C23-A675-1EA0F7A409A1}|..\\DVLD Data Access Layer\\DVLD Data Access Layer.csproj|c:\\users\\youse\\source\\repos\\dvld data access layer\\clstestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|C:\\Users\\youse\\source\\repos\\DVLD System\\tests\\taketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CC0EB2-1C8A-495B-A5C9-D0DA3BCE0B57}|DVLD UI.csproj|solutionrelative:tests\\taketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsDetainedLicenses.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsDetainedLicenses.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:17:38.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsInternationalLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsInternationalLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsInternationalLicenses.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsInternationalLicenses.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsInternationalLicenses.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:17:26.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsLogTheExError.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsLogTheExError.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsLogTheExError.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsLogTheExError.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsLogTheExError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:16:08.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsLoginData.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\clsLoginData.cs",
+              "RelativeDocumentMoniker": "Main\\clsLoginData.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\clsLoginData.cs",
+              "RelativeToolTip": "Main\\clsLoginData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:10:21.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Login.cs",
+              "RelativeDocumentMoniker": "Main\\Login.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Login.cs",
+              "RelativeToolTip": "Main\\Login.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:14:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Login.cs",
+              "RelativeDocumentMoniker": "Main\\Login.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Login.cs [Design]",
+              "RelativeToolTip": "Main\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:13:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main\\Main.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Main.cs",
+              "RelativeToolTip": "Main\\Main.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:12:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "Main\\Main.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Main\\Main.cs [Design]",
+              "RelativeToolTip": "Main\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:12:55.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Users\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "Users\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:31:59.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditOrAddUser.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\EditOrAddUser.cs",
+              "RelativeDocumentMoniker": "Users\\EditOrAddUser.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\EditOrAddUser.cs",
+              "RelativeToolTip": "Users\\EditOrAddUser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:28:08.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditOrAddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\EditOrAddUser.cs",
+              "RelativeDocumentMoniker": "Users\\EditOrAddUser.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Users\\EditOrAddUser.cs [Design]",
+              "RelativeToolTip": "Users\\EditOrAddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:27:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Business Layer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Business Layer\\clsUser.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Business Layer\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD Business Layer\\clsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:21:56.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsPasswordSecurity.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Business Layer\\clsPasswordSecurity.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Business Layer\\clsPasswordSecurity.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Business Layer\\clsPasswordSecurity.cs",
+              "RelativeToolTip": "..\\DVLD Business Layer\\clsPasswordSecurity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T02:09:19.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsApplications.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsApplications.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsApplications.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsDrivers.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsDrivers.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsDrivers.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsDrivers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-26T00:35:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNewInternationalLicense.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Licenses\\AddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\AddNewInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Licenses\\AddNewInternationalLicense.cs",
+              "RelativeToolTip": "Licenses\\AddNewInternationalLicense.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:26:58.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddNewInternationalLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Licenses\\AddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\AddNewInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Licenses\\AddNewInternationalLicense.cs [Design]",
+              "RelativeToolTip": "Licenses\\AddNewInternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:26:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddNewLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAtwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:26:02.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddNewLocalDrivingLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\AddNewLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Applications\\AddNewLocalDrivingLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\AddNewLocalDrivingLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:26:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TakeTest.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\TakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\TakeTest.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\TakeTest.cs",
+              "RelativeToolTip": "Tests\\TakeTest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:15:06.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TakeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\TakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\TakeTest.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\TakeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\TakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:14:02.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsTestAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsTestAppointments.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Access Layer\\clsTestAppointments.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD Data Access Layer\\clsTestAppointments.cs",
+              "RelativeToolTip": "..\\DVLD Data Access Layer\\clsTestAppointments.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAswOQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:15:19.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ctrlScheduleTest.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\ctrlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ctrlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\ctrlScheduleTest.cs",
+              "RelativeToolTip": "Tests\\ctrlScheduleTest.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAADwvwQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:13:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ctrlScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\ctrlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ctrlScheduleTest.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DVLD System\\Tests\\ctrlScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\ctrlScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:13:08.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

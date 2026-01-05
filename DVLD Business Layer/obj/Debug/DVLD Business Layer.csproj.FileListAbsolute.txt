@@ -1,0 +1,9 @@
+C:\Users\youse\source\repos\DVLD Business Layer\bin\Debug\DVLD Business Layer.dll
+C:\Users\youse\source\repos\DVLD Business Layer\bin\Debug\DVLD Business Layer.pdb
+C:\Users\youse\source\repos\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.dll
+C:\Users\youse\source\repos\DVLD Business Layer\bin\Debug\DVLD Data Access Layer.pdb
+C:\Users\youse\source\repos\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\DVLD Business Layer\obj\Debug\DVLD Bus.C961306A.Up2Date
+C:\Users\youse\source\repos\DVLD Business Layer\obj\Debug\DVLD Business Layer.dll
+C:\Users\youse\source\repos\DVLD Business Layer\obj\Debug\DVLD Business Layer.pdb
