@@ -63,7 +63,7 @@
             this.lblTitle.AutoSize = true;
             this.lblTitle.BackColor = System.Drawing.SystemColors.Control;
             this.lblTitle.Font = new System.Drawing.Font("Tw Cen MT Condensed", 25.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.ForeColor = System.Drawing.Color.Red;
+            this.lblTitle.ForeColor = Palette.Accent;
             this.lblTitle.Location = new System.Drawing.Point(273, 331);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(150, 80);
@@ -296,7 +296,7 @@
             this.lblUserMessage.AutoSize = true;
             this.lblUserMessage.BackColor = System.Drawing.SystemColors.Control;
             this.lblUserMessage.Font = new System.Drawing.Font("Tw Cen MT Condensed", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUserMessage.ForeColor = System.Drawing.Color.Red;
+            this.lblUserMessage.ForeColor = Palette.Accent;
             this.lblUserMessage.Location = new System.Drawing.Point(320, 420);
             this.lblUserMessage.Name = "lblUserMessage";
             this.lblUserMessage.Size = new System.Drawing.Size(58, 31);

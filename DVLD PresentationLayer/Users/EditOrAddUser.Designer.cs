@@ -188,7 +188,7 @@
             // 
             this.lblIcon.AutoSize = true;
             this.lblIcon.Font = new System.Drawing.Font("STFangsong", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblIcon.ForeColor = System.Drawing.Color.Crimson;
+            this.lblIcon.ForeColor = Palette.Accent;
             this.lblIcon.Location = new System.Drawing.Point(445, 43);
             this.lblIcon.Name = "lblIcon";
             this.lblIcon.Size = new System.Drawing.Size(126, 72);

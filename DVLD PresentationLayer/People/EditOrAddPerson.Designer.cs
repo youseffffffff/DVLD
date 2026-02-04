@@ -69,9 +69,9 @@
             this.Close.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Close.BackColor = System.Drawing.Color.Gray;
+            this.Close.BackColor = Palette.Secondary;
             this.Close.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Close.ForeColor = System.Drawing.Color.DarkSlateGray;
+            this.Close.ForeColor = Palette.Light;
             this.Close.Location = new System.Drawing.Point(249, 736);
             this.Close.Name = "Close";
             this.Close.Size = new System.Drawing.Size(127, 57);
@@ -86,9 +86,9 @@
             this.Save.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Save.BackColor = System.Drawing.Color.DimGray;
+            this.Save.BackColor = Palette.Secondary;
             this.Save.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 10.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Save.ForeColor = System.Drawing.Color.DarkSlateGray;
+            this.Save.ForeColor = Palette.Light;
             this.Save.Location = new System.Drawing.Point(450, 736);
             this.Save.Name = "Save";
             this.Save.Size = new System.Drawing.Size(119, 57);
@@ -456,7 +456,7 @@
             // 
             this.Icon.AutoSize = true;
             this.Icon.Font = new System.Drawing.Font("Playbill", 25.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Icon.ForeColor = System.Drawing.Color.DarkSlateGray;
+            this.Icon.ForeColor = Palette.Light;
             this.Icon.Location = new System.Drawing.Point(361, 32);
             this.Icon.Name = "Icon";
             this.Icon.Size = new System.Drawing.Size(110, 70);

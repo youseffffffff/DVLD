@@ -61,7 +61,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Urdu Typesetting", 16.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.ForeColor = System.Drawing.Color.Maroon;
+            this.lblTitle.ForeColor = Palette.Accent;
             this.lblTitle.Location = new System.Drawing.Point(407, 0);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(292, 76);
@@ -125,7 +125,7 @@
             // 
             this.Data_lblPhone.AutoSize = true;
             this.Data_lblPhone.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblPhone.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblPhone.ForeColor = Palette.Light;
             this.Data_lblPhone.Location = new System.Drawing.Point(617, 180);
             this.Data_lblPhone.Name = "Data_lblPhone";
             this.Data_lblPhone.Size = new System.Drawing.Size(58, 42);
@@ -136,7 +136,7 @@
             // 
             this.Data_lblCountry.AutoSize = true;
             this.Data_lblCountry.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblCountry.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblCountry.ForeColor = Palette.Light;
             this.Data_lblCountry.Location = new System.Drawing.Point(617, 216);
             this.Data_lblCountry.Name = "Data_lblCountry";
             this.Data_lblCountry.Size = new System.Drawing.Size(58, 42);
@@ -147,7 +147,7 @@
             // 
             this.Data_lblGendor.AutoSize = true;
             this.Data_lblGendor.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblGendor.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblGendor.ForeColor = Palette.Light;
             this.Data_lblGendor.Location = new System.Drawing.Point(154, 173);
             this.Data_lblGendor.Name = "Data_lblGendor";
             this.Data_lblGendor.Size = new System.Drawing.Size(58, 42);
@@ -158,7 +158,7 @@
             // 
             this.Data_lblAddress.AutoSize = true;
             this.Data_lblAddress.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblAddress.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblAddress.ForeColor = Palette.Light;
             this.Data_lblAddress.Location = new System.Drawing.Point(154, 257);
             this.Data_lblAddress.Name = "Data_lblAddress";
             this.Data_lblAddress.Size = new System.Drawing.Size(58, 42);
@@ -169,7 +169,7 @@
             // 
             this.Data_lblEmail.AutoSize = true;
             this.Data_lblEmail.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblEmail.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblEmail.ForeColor = Palette.Light;
             this.Data_lblEmail.Location = new System.Drawing.Point(154, 215);
             this.Data_lblEmail.Name = "Data_lblEmail";
             this.Data_lblEmail.Size = new System.Drawing.Size(58, 42);
@@ -180,7 +180,7 @@
             // 
             this.Data_lblName.AutoSize = true;
             this.Data_lblName.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblName.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblName.ForeColor = Palette.Light;
             this.Data_lblName.Location = new System.Drawing.Point(154, 89);
             this.Data_lblName.Name = "Data_lblName";
             this.Data_lblName.Size = new System.Drawing.Size(58, 42);
@@ -191,7 +191,7 @@
             // 
             this.Data_lblNationalNo.AutoSize = true;
             this.Data_lblNationalNo.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblNationalNo.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblNationalNo.ForeColor = Palette.Light;
             this.Data_lblNationalNo.Location = new System.Drawing.Point(154, 131);
             this.Data_lblNationalNo.Name = "Data_lblNationalNo";
             this.Data_lblNationalNo.Size = new System.Drawing.Size(58, 42);
@@ -202,7 +202,7 @@
             // 
             this.Data_lblID.AutoSize = true;
             this.Data_lblID.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Data_lblID.ForeColor = System.Drawing.Color.Black;
+            this.Data_lblID.ForeColor = Palette.Light;
             this.Data_lblID.Location = new System.Drawing.Point(154, 47);
             this.Data_lblID.Name = "Data_lblID";
             this.Data_lblID.Size = new System.Drawing.Size(58, 42);
@@ -213,7 +213,7 @@
             // 
             this.lblDateOfBirth.AutoSize = true;
             this.lblDateOfBirth.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDateOfBirth.ForeColor = System.Drawing.Color.Black;
+            this.lblDateOfBirth.ForeColor = Palette.Light;
             this.lblDateOfBirth.Location = new System.Drawing.Point(444, 132);
             this.lblDateOfBirth.Name = "lblDateOfBirth";
             this.lblDateOfBirth.Size = new System.Drawing.Size(163, 44);
@@ -224,7 +224,7 @@
             // 
             this.lblPhone.AutoSize = true;
             this.lblPhone.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPhone.ForeColor = System.Drawing.Color.Black;
+            this.lblPhone.ForeColor = Palette.Light;
             this.lblPhone.Location = new System.Drawing.Point(519, 174);
             this.lblPhone.Name = "lblPhone";
             this.lblPhone.Size = new System.Drawing.Size(89, 44);
@@ -235,7 +235,7 @@
             // 
             this.lblGendor.AutoSize = true;
             this.lblGendor.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGendor.ForeColor = System.Drawing.Color.Black;
+            this.lblGendor.ForeColor = Palette.Light;
             this.lblGendor.Location = new System.Drawing.Point(6, 173);
             this.lblGendor.Name = "lblGendor";
             this.lblGendor.Size = new System.Drawing.Size(102, 44);
@@ -246,7 +246,7 @@
             // 
             this.lblAddress.AutoSize = true;
             this.lblAddress.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAddress.ForeColor = System.Drawing.Color.Black;
+            this.lblAddress.ForeColor = Palette.Light;
             this.lblAddress.Location = new System.Drawing.Point(6, 257);
             this.lblAddress.Name = "lblAddress";
             this.lblAddress.Size = new System.Drawing.Size(106, 44);
@@ -257,7 +257,7 @@
             // 
             this.lblCountry.AutoSize = true;
             this.lblCountry.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCountry.ForeColor = System.Drawing.Color.Black;
+            this.lblCountry.ForeColor = Palette.Light;
             this.lblCountry.Location = new System.Drawing.Point(497, 210);
             this.lblCountry.Name = "lblCountry";
             this.lblCountry.Size = new System.Drawing.Size(111, 44);
@@ -268,7 +268,7 @@
             // 
             this.lblEmail.AutoSize = true;
             this.lblEmail.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmail.ForeColor = System.Drawing.Color.Black;
+            this.lblEmail.ForeColor = Palette.Light;
             this.lblEmail.Location = new System.Drawing.Point(6, 215);
             this.lblEmail.Name = "lblEmail";
             this.lblEmail.Size = new System.Drawing.Size(83, 44);
@@ -279,7 +279,7 @@
             // 
             this.lblName.AutoSize = true;
             this.lblName.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.ForeColor = System.Drawing.Color.Black;
+            this.lblName.ForeColor = Palette.Light;
             this.lblName.Location = new System.Drawing.Point(6, 89);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(85, 44);
@@ -290,7 +290,7 @@
             // 
             this.lblNationalNo.AutoSize = true;
             this.lblNationalNo.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNationalNo.ForeColor = System.Drawing.Color.Black;
+            this.lblNationalNo.ForeColor = Palette.Light;
             this.lblNationalNo.Location = new System.Drawing.Point(6, 131);
             this.lblNationalNo.Name = "lblNationalNo";
             this.lblNationalNo.Size = new System.Drawing.Size(147, 44);
@@ -301,7 +301,7 @@
             // 
             this.lblID.AutoSize = true;
             this.lblID.Font = new System.Drawing.Font("Urdu Typesetting", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblID.ForeColor = System.Drawing.Color.Black;
+            this.lblID.ForeColor = Palette.Light;
             this.lblID.Location = new System.Drawing.Point(6, 47);
             this.lblID.Name = "lblID";
             this.lblID.Size = new System.Drawing.Size(125, 44);

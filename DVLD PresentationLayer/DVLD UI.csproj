@@ -390,6 +390,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Palette.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Applications\App.config" />

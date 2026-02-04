@@ -204,7 +204,7 @@
             this.Icon.AutoSize = true;
             this.Icon.BackColor = System.Drawing.SystemColors.Control;
             this.Icon.Font = new System.Drawing.Font("Tw Cen MT Condensed", 25.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Icon.ForeColor = System.Drawing.Color.Red;
+            this.Icon.ForeColor = Palette.Accent;
             this.Icon.Location = new System.Drawing.Point(143, 9);
             this.Icon.Name = "Icon";
             this.Icon.Size = new System.Drawing.Size(268, 80);
