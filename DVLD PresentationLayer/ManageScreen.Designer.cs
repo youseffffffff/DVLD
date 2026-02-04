@@ -93,19 +93,19 @@
             this.lblRecordsCount.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblRecordsCount.AutoSize = true;
             this.lblRecordsCount.BackColor = System.Drawing.Color.Transparent;
-            this.lblRecordsCount.Font = new System.Drawing.Font("Sitka Banner", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRecordsCount.ForeColor = System.Drawing.Color.DarkBlue;
+            this.lblRecordsCount.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRecordsCount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.lblRecordsCount.Location = new System.Drawing.Point(12, 769);
             this.lblRecordsCount.Name = "lblRecordsCount";
-            this.lblRecordsCount.Size = new System.Drawing.Size(74, 42);
+            this.lblRecordsCount.Size = new System.Drawing.Size(120, 25);
             this.lblRecordsCount.TabIndex = 10;
-            this.lblRecordsCount.Text = "????";
+            this.lblRecordsCount.Text = "Total Records: 0";
             // 
             // grbFilter
             // 
             this.grbFilter.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.grbFilter.BackColor = System.Drawing.Color.Transparent;
+            this.grbFilter.BackColor = System.Drawing.Color.White;
             this.grbFilter.Controls.Add(this.btmAddNewRecord);
             this.grbFilter.Controls.Add(this.cbFilter);
             this.grbFilter.Controls.Add(this.lblFind);
@@ -113,14 +113,15 @@
             this.grbFilter.Controls.Add(this.cbStatus);
             this.grbFilter.Controls.Add(this.cbIsActive);
             this.grbFilter.Controls.Add(this.cbGendor);
-            this.grbFilter.Font = new System.Drawing.Font("Times New Roman", 7.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbFilter.ForeColor = System.Drawing.Color.DarkBlue;
+            this.grbFilter.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grbFilter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.grbFilter.Location = new System.Drawing.Point(0, 370);
             this.grbFilter.Name = "grbFilter";
+            this.grbFilter.Padding = new System.Windows.Forms.Padding(10);
             this.grbFilter.Size = new System.Drawing.Size(1705, 91);
             this.grbFilter.TabIndex = 8;
             this.grbFilter.TabStop = false;
-            this.grbFilter.Text = "Filter";
+            this.grbFilter.Text = "Filter & Search";
             // 
             // btmAddNewRecord
             // 
@@ -137,6 +138,9 @@
             // 
             // cbFilter
             // 
+            this.cbFilter.BackColor = System.Drawing.Color.White;
+            this.cbFilter.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbFilter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.cbFilter.FormattingEnabled = true;
             this.cbFilter.Location = new System.Drawing.Point(198, 37);
             this.cbFilter.Name = "cbFilter";
@@ -148,20 +152,23 @@
             // 
             this.lblFind.AutoSize = true;
             this.lblFind.BackColor = System.Drawing.Color.Transparent;
-            this.lblFind.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFind.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.lblFind.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFind.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.lblFind.Location = new System.Drawing.Point(93, 38);
             this.lblFind.Name = "lblFind";
-            this.lblFind.Size = new System.Drawing.Size(102, 26);
+            this.lblFind.Size = new System.Drawing.Size(95, 20);
             this.lblFind.TabIndex = 2;
-            this.lblFind.Text = "Find By:";
+            this.lblFind.Text = "Filter By:";
             // 
             // txtFilter
             // 
-            this.txtFilter.BackColor = System.Drawing.SystemColors.Window;
+            this.txtFilter.BackColor = System.Drawing.Color.White;
+            this.txtFilter.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtFilter.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtFilter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtFilter.Location = new System.Drawing.Point(418, 38);
             this.txtFilter.Name = "txtFilter";
-            this.txtFilter.Size = new System.Drawing.Size(305, 32);
+            this.txtFilter.Size = new System.Drawing.Size(305, 27);
             this.txtFilter.TabIndex = 4;
             this.txtFilter.Visible = false;
             this.txtFilter.WordWrap = false;
@@ -169,6 +176,9 @@
             // 
             // cbStatus
             // 
+            this.cbStatus.BackColor = System.Drawing.Color.White;
+            this.cbStatus.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbStatus.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.cbStatus.FormattingEnabled = true;
             this.cbStatus.Items.AddRange(new object[] {
             "All",
@@ -184,6 +194,9 @@
             // 
             // cbIsActive
             // 
+            this.cbIsActive.BackColor = System.Drawing.Color.White;
+            this.cbIsActive.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbIsActive.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.cbIsActive.FormattingEnabled = true;
             this.cbIsActive.Items.AddRange(new object[] {
             "All",
@@ -198,6 +211,9 @@
             // 
             // cbGendor
             // 
+            this.cbGendor.BackColor = System.Drawing.Color.White;
+            this.cbGendor.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbGendor.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.cbGendor.FormattingEnabled = true;
             this.cbGendor.Items.AddRange(new object[] {
             "All",
@@ -214,39 +230,39 @@
             // 
             this.Data.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Data.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Tahoma", 8F);
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            this.Data.BackgroundColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.Data.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
-            this.Data.ColumnHeadersHeight = 46;
+            this.Data.ColumnHeadersHeight = 50;
             this.Data.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Cooper Black", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(220)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.Data.DefaultCellStyle = dataGridViewCellStyle2;
-            this.Data.GridColor = System.Drawing.Color.White;
+            this.Data.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(220)))), ((int)(((byte)(220)))));
             this.Data.Location = new System.Drawing.Point(0, 478);
             this.Data.Name = "Data";
             this.Data.ReadOnly = true;
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Tahoma", 8F);
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 9F);
             dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
             dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.Data.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.Data.RowHeadersWidth = 50;
-            this.Data.RowTemplate.Height = 15;
+            this.Data.RowTemplate.Height = 35;
             this.Data.RowTemplate.ReadOnly = true;
             this.Data.Size = new System.Drawing.Size(1705, 288);
             this.Data.TabIndex = 7;
@@ -254,13 +270,13 @@
             // lblTitle
             // 
             this.lblTitle.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblTitle.Font = new System.Drawing.Font("Playbill", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.ForeColor = System.Drawing.Color.DarkSlateGray;
+            this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.lblTitle.Location = new System.Drawing.Point(2, 206);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(1703, 110);
             this.lblTitle.TabIndex = 33;
-            this.lblTitle.Text = "Manage Screen";
+            this.lblTitle.Text = "Manage Records";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblTitle.Click += new System.EventHandler(this.lblTitle_Click);
             // 
@@ -524,7 +540,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
-            this.BackColor = System.Drawing.Color.MintCream;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(245)))), ((int)(((byte)(245)))));
             this.ClientSize = new System.Drawing.Size(1707, 871);
             this.Controls.Add(this.icon);
             this.Controls.Add(this.lblTitle);
@@ -533,7 +549,7 @@
             this.Controls.Add(this.Data);
             this.HelpButton = true;
             this.Name = "ManageScreen";
-            this.Text = "ManageScreen";
+            this.Text = "Manage Records";
             this.Load += new System.EventHandler(this.ManageScreen_Load);
             this.grbFilter.ResumeLayout(false);
             this.grbFilter.PerformLayout();

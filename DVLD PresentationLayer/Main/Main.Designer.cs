@@ -66,8 +66,9 @@
             // 
             // MainOptions
             // 
-            this.MainOptions.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.MainOptions.Font = new System.Drawing.Font("SimSun-ExtB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MainOptions.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
+            this.MainOptions.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.MainOptions.ForeColor = System.Drawing.Color.White;
             this.MainOptions.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.MainOptions.ImageScalingSize = new System.Drawing.Size(32, 32);
             this.MainOptions.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -79,7 +80,8 @@
             this.toolStripMenuItem1});
             this.MainOptions.Location = new System.Drawing.Point(0, 0);
             this.MainOptions.Name = "MainOptions";
-            this.MainOptions.Size = new System.Drawing.Size(1793, 47);
+            this.MainOptions.Padding = new System.Windows.Forms.Padding(8, 5, 0, 5);
+            this.MainOptions.Size = new System.Drawing.Size(1793, 55);
             this.MainOptions.TabIndex = 1;
             this.MainOptions.Text = "menuStrip1";
             // 
@@ -92,10 +94,10 @@
             this.detainLicenseToolStripMenuItem,
             this.apllicationsTypesToolStripMenuItem,
             this.manageTestTypesToolStripMenuItem});
-            this.aplToolStripMenuItem.Font = new System.Drawing.Font("Agency FB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.aplToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Menu;
+            this.aplToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.aplToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.aplToolStripMenuItem.Name = "aplToolStripMenuItem";
-            this.aplToolStripMenuItem.Size = new System.Drawing.Size(160, 43);
+            this.aplToolStripMenuItem.Size = new System.Drawing.Size(132, 45);
             this.aplToolStripMenuItem.Text = "Applications";
             // 
             // drivingLicenseServircesToolStripMenuItem
@@ -230,28 +232,28 @@
             // 
             // ManagePeople
             // 
-            this.ManagePeople.Font = new System.Drawing.Font("Agency FB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ManagePeople.ForeColor = System.Drawing.SystemColors.Menu;
+            this.ManagePeople.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ManagePeople.ForeColor = System.Drawing.Color.White;
             this.ManagePeople.Name = "ManagePeople";
-            this.ManagePeople.Size = new System.Drawing.Size(106, 43);
+            this.ManagePeople.Size = new System.Drawing.Size(104, 45);
             this.ManagePeople.Text = "People";
             this.ManagePeople.Click += new System.EventHandler(this.peopleToolStripMenuItem_Click);
             // 
             // ManageDivers
             // 
-            this.ManageDivers.Font = new System.Drawing.Font("Agency FB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ManageDivers.ForeColor = System.Drawing.SystemColors.Menu;
+            this.ManageDivers.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ManageDivers.ForeColor = System.Drawing.Color.White;
             this.ManageDivers.Name = "ManageDivers";
-            this.ManageDivers.Size = new System.Drawing.Size(111, 43);
-            this.ManageDivers.Text = "Driving";
+            this.ManageDivers.Size = new System.Drawing.Size(104, 45);
+            this.ManageDivers.Text = "Drivers";
             this.ManageDivers.Click += new System.EventHandler(this.drivingToolStripMenuItem_Click);
             // 
             // ManageUsres
             // 
-            this.ManageUsres.Font = new System.Drawing.Font("Agency FB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ManageUsres.ForeColor = System.Drawing.SystemColors.Menu;
+            this.ManageUsres.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ManageUsres.ForeColor = System.Drawing.Color.White;
             this.ManageUsres.Name = "ManageUsres";
-            this.ManageUsres.Size = new System.Drawing.Size(99, 43);
+            this.ManageUsres.Size = new System.Drawing.Size(98, 45);
             this.ManageUsres.Text = "Users";
             this.ManageUsres.Click += new System.EventHandler(this.managePeopleToolStripMenuItem_Click);
             // 
@@ -261,10 +263,10 @@
             this.showCurrentUserDetailsToolStripMenuItem,
             this.changePasswordToolStripMenuItem,
             this.logOutToolStripMenuItem});
-            this.settingsToolStripMenuItem.Font = new System.Drawing.Font("Agency FB", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.settingsToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Menu;
+            this.settingsToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.settingsToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(120, 43);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(113, 45);
             this.settingsToolStripMenuItem.Text = "Settings";
             // 
             // showCurrentUserDetailsToolStripMenuItem
@@ -332,16 +334,16 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.ClientSize = new System.Drawing.Size(1793, 1046);
             this.Controls.Add(this.MainOptions);
             this.Controls.Add(this.pictureBox1);
-            this.ForeColor = System.Drawing.Color.Transparent;
+            this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.MainOptions;
             this.Name = "Main";
-            this.Text = "Main";
+            this.Text = "DVLD System - Main";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Main_KeyUp);
             this.MainOptions.ResumeLayout(false);
