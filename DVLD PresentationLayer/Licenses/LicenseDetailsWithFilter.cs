@@ -16,6 +16,7 @@ namespace DVLD_System.Licenses
         public LicenseDetailsWithFilter()
         {
             InitializeComponent();
+            Palette.Apply(this);
         }
         public clsLicense License;
 

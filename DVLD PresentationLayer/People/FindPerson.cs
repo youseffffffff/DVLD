@@ -27,6 +27,7 @@ namespace DVLD_System
 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
 

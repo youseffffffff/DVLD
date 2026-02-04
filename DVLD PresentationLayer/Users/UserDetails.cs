@@ -16,6 +16,7 @@ namespace DVLD_System
         public UserDetails()
         {
             InitializeComponent();
+            Palette.Apply(this);
         }
         public clsUser User;
         private void Fill(int UserID)

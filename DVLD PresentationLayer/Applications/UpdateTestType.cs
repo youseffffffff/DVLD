@@ -29,6 +29,7 @@ namespace DVLD_System.Applications
             // جعل الفورم يبدأ في منتصف الشاشة
             this.StartPosition = FormStartPosition.CenterScreen;
 
+                Palette.Apply(this);
         }
 
         clsTestType Type = null;

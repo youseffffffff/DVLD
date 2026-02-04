@@ -32,6 +32,7 @@ namespace DVLD_System
 
             clsLocalDrivingLicenseApplication App = new clsLocalDrivingLicenseApplication();
             InitializeComponent();
+            Palette.Apply(this);
         }
 
 

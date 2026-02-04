@@ -31,6 +31,7 @@ namespace DVLD_System.Licenses
 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         private void IssueLicense_Load(object sender, EventArgs e)

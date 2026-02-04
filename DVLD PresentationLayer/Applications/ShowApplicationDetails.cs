@@ -32,6 +32,7 @@ namespace DVLD_System.Applications
 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         private void ShowApplicationDetails_Load(object sender, EventArgs e)

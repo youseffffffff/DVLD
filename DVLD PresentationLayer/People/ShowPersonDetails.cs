@@ -29,6 +29,7 @@ namespace DVLD_System
 
             this._ID = ID;
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         private void ShowPersonDetails_Load(object sender, EventArgs e)

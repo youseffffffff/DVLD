@@ -20,6 +20,7 @@ namespace DVLD_System.Applications
         public InternationalApplicationDetails()
         {
             InitializeComponent();
+            Palette.Apply(this);
         }
         bool Fill()
         {

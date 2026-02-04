@@ -18,6 +18,7 @@ namespace DVLD_System
         public EditOrAddPerson(int ID)
         {
             InitializeComponent();
+            Palette.Apply(this);
 
 
             this.Size = new Size(900, 500);

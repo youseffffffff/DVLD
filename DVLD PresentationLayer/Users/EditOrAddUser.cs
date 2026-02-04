@@ -24,6 +24,7 @@ namespace DVLD_System
         public EditOrAddUser(int UserID)
         {
             InitializeComponent();
+            Palette.Apply(this);
             this.Size = new Size(900, 500);
 
             // إلغاء خصائص التكبير والتصغير

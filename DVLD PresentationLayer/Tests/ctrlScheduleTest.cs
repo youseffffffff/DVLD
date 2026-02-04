@@ -74,6 +74,7 @@ namespace DVLD_System.Tests
         {
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
 

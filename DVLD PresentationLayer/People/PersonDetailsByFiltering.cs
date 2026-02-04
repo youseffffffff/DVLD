@@ -16,7 +16,8 @@ namespace DVLD_System
         public PersonDetailsByFiltering()
         {
             InitializeComponent();
-            
+            Palette.Apply(this);
+        }
         }
         public clsPerson P = null;
         

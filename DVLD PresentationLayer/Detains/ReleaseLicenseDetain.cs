@@ -24,6 +24,7 @@ namespace DVLD_System.Detains
         public ReleaseLicenseDetain()
         {
             InitializeComponent();
+            Palette.Apply(this);
 
             this.Size = new Size(900, 600);
 
@@ -103,8 +104,9 @@ namespace DVLD_System.Detains
             }
             catch
             {
-                return false;
-            }
+                Palette.Apply(this);
+                _SelectedLicenseID = LicenseID;
+            
 
             return true;
         }

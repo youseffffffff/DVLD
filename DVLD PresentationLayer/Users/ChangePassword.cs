@@ -15,9 +15,10 @@ namespace DVLD_System
     public partial class ChangePassword : Form
     {
         private int _id;
-        public ChangePassword(int UserID)
+        public ChangePassword(int _UserID)
         {
-            _id = UserID;
+            InitializeComponent();
+            Palette.Apply(this);
 
             this.Size = new Size(900, 500);
 

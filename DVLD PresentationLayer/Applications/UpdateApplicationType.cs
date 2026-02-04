@@ -32,6 +32,7 @@ namespace DVLD_System.Applications
             Type = clsApplicationType.Find(ApplicationTypeID);
 
             InitializeComponent();
+            Palette.Apply(this);
         }
         bool IsValidForm()
         {

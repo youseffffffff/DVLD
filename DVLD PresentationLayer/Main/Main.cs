@@ -28,6 +28,7 @@ namespace DVLD_System
             CurrentUserID = UserID; 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
 

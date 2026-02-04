@@ -20,6 +20,7 @@ namespace DVLD_System.Licenses
         public InternationalLicenseDetails()
         {
             InitializeComponent();
+            Palette.Apply(this);
         }
         bool Fill()
         {

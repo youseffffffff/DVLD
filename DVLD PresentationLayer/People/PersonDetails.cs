@@ -17,6 +17,7 @@ namespace DVLD_System
         public PersonDetails()
         {
             InitializeComponent();
+            Palette.Apply(this);
         }
         public clsPerson P = null;
 

@@ -21,6 +21,7 @@ namespace DVLD_System.Licenses
             this.PersonID = PersonID;
 
             InitializeComponent();
+            Palette.Apply(this);
 
             this.Size = new Size(1000, 700);
 

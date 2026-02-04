@@ -28,6 +28,7 @@ namespace DVLD_System.Licenses
 
             this.IntLicenseID = IntLicenseID;
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         private void ShowInternationalLicenseDetails_Load(object sender, EventArgs e)

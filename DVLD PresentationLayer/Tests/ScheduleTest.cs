@@ -26,6 +26,7 @@ namespace DVLD_System.Tests
 
 
             InitializeComponent();
+            Palette.Apply(this);
 
             this.Size = new Size(450, 650);
 

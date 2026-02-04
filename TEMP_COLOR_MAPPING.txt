@@ -1,0 +1,7 @@
+Palette mapping used:
+Primary (form bg): rgb(34,40,49)
+Secondary (panels/menu bg): rgb(57,62,70)
+Accent (buttons/headers): rgb(148,137,121)
+Light (inputs/label text): rgb(223,208,184)
+
+Applied to Designer files: Login (done), Main, ManageScreen.

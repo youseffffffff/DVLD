@@ -18,6 +18,7 @@ namespace DVLD_System.Applications
         {
 
             InitializeComponent();
+            Palette.Apply(this);
 
             this.Size = new Size(900, 700);
 

@@ -72,6 +72,7 @@ namespace DVLD_System
         public ManageScreen(DataTable Table)
         {
             InitializeComponent();
+            Palette.Apply(this);
 
             if (Table != null)
             {

@@ -20,6 +20,7 @@ namespace DVLD_System.Applications
         {
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         public clsLocalDrivingLicenseApplication LocalApp = null;

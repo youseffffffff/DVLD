@@ -24,7 +24,8 @@ namespace DVLD.Licenses.Local_Licenses.Controls
         public ctrlDriverLicenses()
         {
             InitializeComponent();
-
+            Palette.Apply(this);
+        }
             this.Size = new Size(1225, 447);
         }
 

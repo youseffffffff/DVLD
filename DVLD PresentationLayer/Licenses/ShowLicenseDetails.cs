@@ -31,6 +31,7 @@ namespace DVLD_System.Licenses
 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
 

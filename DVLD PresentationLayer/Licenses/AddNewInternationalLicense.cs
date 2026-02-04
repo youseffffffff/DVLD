@@ -35,6 +35,7 @@ namespace DVLD_System.Licenses
 
 
             InitializeComponent();
+            Palette.Apply(this);
         }
 
         private void AddNewInternationalLicense_Load(object sender, EventArgs e)
